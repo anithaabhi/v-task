@@ -1,0 +1,144 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "name": "anitha",
+      "age": 38,
+      "mobile": 8790983744,
+      "email": "a@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "dev",
+      "age": "",
+      "mobile": "",
+      "email": ""
+    },
+    {
+      "id": 4,
+      "name": "nitya",
+      "age": 18,
+      "mobile": 9866906603,
+      "email": "n@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "age": "",
+      "mobile": "",
+      "email": ""
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "a",
+      "age": 5,
+      "mobile": 5,
+      "email": "5",
+      "id": 7
+    },
+    {
+      "name": "a",
+      "age": 5,
+      "mobile": 5,
+      "email": "5",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 11
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 12
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 18
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 19
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 20
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 21
+    },
+    {
+      "name": null,
+      "age": null,
+      "mobile": null,
+      "email": null,
+      "id": 22
+    }
+  ]
+}
